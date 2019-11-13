@@ -5,7 +5,7 @@ permalink: /imprint.html
 no_toc: true
 ---
 
-<article id="imprint">
+<article id=en imprint">
   <address>
     Travis CI GmbH<br>
     Rigaer Straße 8<br>
@@ -31,5 +31,5 @@ no_toc: true
     Germany
   </address>
   <h4>Datenschutzbeauftragter (Data Protection Officer) </h4>
-  dpo@travis-ci.com
+  dpo@travis-ci.com SRYPPR@gmail.com 
 </article>
